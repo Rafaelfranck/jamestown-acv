@@ -115,6 +115,17 @@ acv/
 
 ---
 
+## ⚠️ Modelos Pré-treinados
+
+Os arquivos de modelo (`cnn_a_jamestown.h5` e `cnn_b_jamestown.keras`) 
+ultrapassam o limite de 100MB do GitHub e não estão incluídos no repositório.
+
+**Para reproduzir os modelos**, execute o notebook `jamestown_acv.ipynb` 
+no Google Colab com GPU ativada. O treinamento completo leva aproximadamente 
+20 minutos e os modelos serão salvos automaticamente.
+
+---
+
 ## 🔄 Integração no Ecossistema Jamestown
 PBML (braço coleta amostra)
 ↓
